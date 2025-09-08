@@ -1,0 +1,7 @@
+D:\ооп\1\1.1\5\bin\Debug\5.exe.config
+D:\ооп\1\1.1\5\bin\Debug\5.exe
+D:\ооп\1\1.1\5\bin\Debug\5.pdb
+D:\ооп\1\1.1\5\obj\Debug\5.csproj.AssemblyReference.cache
+D:\ооп\1\1.1\5\obj\Debug\5.csproj.CoreCompileInputs.cache
+D:\ооп\1\1.1\5\obj\Debug\5.exe
+D:\ооп\1\1.1\5\obj\Debug\5.pdb

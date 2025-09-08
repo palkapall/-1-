@@ -1,0 +1,7 @@
+D:\ооп\1\1.1\fveb\bin\Debug\fveb.exe.config
+D:\ооп\1\1.1\fveb\bin\Debug\fveb.exe
+D:\ооп\1\1.1\fveb\bin\Debug\fveb.pdb
+D:\ооп\1\1.1\fveb\obj\Debug\fveb.csproj.AssemblyReference.cache
+D:\ооп\1\1.1\fveb\obj\Debug\fveb.csproj.CoreCompileInputs.cache
+D:\ооп\1\1.1\fveb\obj\Debug\fveb.exe
+D:\ооп\1\1.1\fveb\obj\Debug\fveb.pdb

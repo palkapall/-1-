@@ -1,0 +1,13 @@
+C:\Users\Polina\source\repos\2\2.2\bin\Debug\2.2.exe.config
+C:\Users\Polina\source\repos\2\2.2\bin\Debug\2.2.exe
+C:\Users\Polina\source\repos\2\2.2\bin\Debug\2.2.pdb
+C:\Users\Polina\source\repos\2\2.2\obj\Debug\2.2.csproj.CoreCompileInputs.cache
+C:\Users\Polina\source\repos\2\2.2\obj\Debug\2.2.exe
+C:\Users\Polina\source\repos\2\2.2\obj\Debug\2.2.pdb
+D:\ооп\1\2\2.2\bin\Debug\2.2.exe.config
+D:\ооп\1\2\2.2\bin\Debug\2.2.exe
+D:\ооп\1\2\2.2\bin\Debug\2.2.pdb
+D:\ооп\1\2\2.2\obj\Debug\2.2.csproj.AssemblyReference.cache
+D:\ооп\1\2\2.2\obj\Debug\2.2.csproj.CoreCompileInputs.cache
+D:\ооп\1\2\2.2\obj\Debug\2.2.exe
+D:\ооп\1\2\2.2\obj\Debug\2.2.pdb
